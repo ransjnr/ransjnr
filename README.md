@@ -5,10 +5,6 @@
 <h3 align="center">AI Software Engineer • Technical Founder • Biomedical Engineer</h3>
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fransford-oppong-a249a9219_retrospectives-activity-7302791812803444737-04lz&psig=AOvVaw24bJmvKG3FHezGueUl5_D5&ust=1760788020896000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJiRydeUq5ADFQAAAAAdAAAAABAE" alt="Ransford Oppong Banner" width="100%" />
-</p>
-
-<p align="center">
   <a href="mailto:oppong.rans@gmail.com"><img src="https://img.shields.io/badge/Email-oppong.rans%40gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/ransford-oppong-a249a9219/"><img src="https://img.shields.io/badge/LinkedIn-Ransford%20Oppong-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/ransjnr"><img src="https://img.shields.io/badge/GitHub-ransjnr-black?style=for-the-badge&logo=github" /></a>
